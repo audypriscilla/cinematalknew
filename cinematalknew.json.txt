@@ -1,0 +1,61 @@
+{
+	"result" : [
+		{
+			"judul" :  "TESTTTTTTTTTT",
+			"synopsis" : "HGXBSHJXGZVBXHJ",
+			"directors" : "JKCDHJKSDSDJKSJASDGHDSDGHJSHJSHJ",
+			"writers" : "Jennifer Lee (screenplay by), Jennifer Lee (story by)",
+			"poster" : "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY1000_SX675_AL_.jpg"
+		},
+		{
+			"judul" : "Knives Out (2019)",
+			"synopsis" : "A detective investigates the death of a patriarch of an eccentric, combative family.",
+			"directors" : "Rian Johnson",
+			"writers" : "Rian Johnson",
+			"poster" : "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SY1000_SX675_AL_.jpg"
+		},
+		{
+			"judul" : "Ford v Ferrari (2019)",
+			"synopsis" : "American car designer Carroll Shelby and driver Ken Miles battle corporate interference, the laws of physics and their own personal demons to build a revolutionary race car for Ford and challenge Ferrari at the 24 Hours of Le Mans in 1966.",
+			"directors" : "James Mangold",
+			"writers" : "Jez Butterworth, John-Henry Butterworth",
+			"poster" : "https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg"
+		},
+		{
+			"judul" : "Queen & Slim (2019)",
+			"synopsis" : "A couple's first date takes an unexpected turn when a police officer pulls them over.",
+			"directors" : "Melina Matsoukas",
+			"writers" : "Lena Waithe (screenplay by), James Frey (story by)",
+			"poster" : "https://m.media-amazon.com/images/M/MV5BMjIzYmJkZmEtM2RkZS00MDA4LTg4NjAtOGRkN2EwZmFmMWE4XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_SX675_AL_.jpg"
+		},
+		{
+			"judul" : "A Beautiful Day in the Neighborhood (2019)",
+			"synopsis" : "Based on the true story of a real-life friendship between Fred Rogers and journalist Tom Junod.",
+			"directors" : "Marielle Heller",
+			"writers" : "Micah Fitzerman-Blue, Noah Harpster",
+			"poster" : "https://m.media-amazon.com/images/M/MV5BYTc1OWFmZDYtNDkzMy00ZjM2LTkxZDItM2E3ZTg3NTE1ZWE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+		},
+		{
+			"judul" : "21 Bridges (2019)",
+			"synopsis" : "An embattled NYPD detective is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy.",
+			"directors" : "Brian Kirk",
+			"writers" : "Adam Mervis (screenplay), Matthew Michael Carnahan (screenplay)",
+			"poster" : "https://m.media-amazon.com/images/M/MV5BYTg4YzEzNDQtZDAxOS00M2YyLTljZWEtNjk4YTc4NDM2NTBhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,562,1000_AL_.jpg"
+		},
+		{
+			"judul" : "Last Christmas (2019)",
+			"synopsis" : "Kate is a young woman subscribed to bad decisions. Working as an elf in a year round Christmas store is not good for the wannabe singer. However, she meets Tom there. Her life takes a new turn. For Kate, it seems too good to be true.",
+			"directors" : "Paul Feig",
+			"writers" : "Emma Thompson (story by), Greg Wise (story by)",
+			"poster" : "https://m.media-amazon.com/images/M/MV5BNTQ4ZmY0NjgtYzVhNy00NzhiLTk3YTYtNzM1MTdjM2VhZDA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+		},
+		{
+			"judul" : "Joker (2019)",
+			"synopsis" : "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+			"directors" : "Todd Phillips",
+			"writers" : "Todd Phillips, Scott Silver",
+			"poster" : "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+		}
+
+	]
+}
